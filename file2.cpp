@@ -38,4 +38,5 @@ int main(){
     cout << "Status kelulusan = "<<Status_lulus(rerata)
          <<", dengan nilai rerata = "<<rerata<<endl;
 }
-3. Progr
+
+//selesai
